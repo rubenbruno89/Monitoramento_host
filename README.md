@@ -21,5 +21,3 @@ Após cada verificação, o script aguarda 100 segundos (timeout /t 100) e volta
 
 - Certifique-se de ter uma conexão com a internet para que o script possa enviar as notificações corretamente.
 - O script está configurado para realizar o monitoramento indefinidamente. Caso queira interromper o script, pressione Ctrl+C no console.
-
-Agora você pode compartilhar este script no GitHub para que outros usuários possam utilizá-lo e contribuir para seu aprimoramento.
